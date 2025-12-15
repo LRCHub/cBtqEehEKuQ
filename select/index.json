@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ブルーハワイレモン",
+  "base_artist": "≒JOY",
+  "createdAt": "2025-12-15T10:07:59.571091Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブルーハワイレモン",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/01_ブルーハワイレモン_≒JOY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブルーハワイレモン (instrumental)",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/02_ブルーハワイレモン_(instrumental)_≒JOY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブルーハワイレモン",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_ブルーハワイレモン_≒JOY.txt"
+    }
+  ]
+}
