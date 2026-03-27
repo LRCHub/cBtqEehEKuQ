@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ブルーハワイレモン",
   "base_artist": "≒JOY",
-  "createdAt": "2025-12-15T10:07:59.571091Z",
+  "createdAt": "2026-03-27T12:27:50.221993Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,24 @@
       "artist": "≒JOY",
       "has_synced": false,
       "path": "select/pl_01_ブルーハワイレモン_≒JOY.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ブルーハワイレモン",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/localdb_01_ブルーハワイレモン_≒JOY.lrc",
+      "repo_name": "OiyOgHF0dGc"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ブルーハワイレモン",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/localdb_02_ブルーハワイレモン_≒JOY.lrc",
+      "repo_name": "cBtqEehEKuQ"
     }
   ]
 }
